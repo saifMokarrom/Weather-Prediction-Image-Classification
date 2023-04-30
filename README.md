@@ -7,7 +7,7 @@ Every set has 4 classes (cloudy, rainy, shine, sunrise)
 
 
 
-While fitting the model, accuracy between train and validation set was 90% 
-And finally after evaluating our model has an accuracy of more than 91%. 
+While fitting the model, accuracy between train and validation set was 100% 
+And finally after evaluating our model has an accuracy of more than 95%. 
 For your better understanding, I tried to comment out beside the code 
 
